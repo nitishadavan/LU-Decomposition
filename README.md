@@ -47,13 +47,13 @@ print(x)
 ```
 
 ## Output:
-![Uploading image.png…]()
+<img width="1215" height="864" alt="image" src="https://github.com/user-attachments/assets/4894b403-cb04-4226-90b8-2b2044e604e4" />
 
-![Uploading image.png…]()
+<img width="1234" height="569" alt="image" src="https://github.com/user-attachments/assets/6be43148-2878-4450-bcb6-6c850a313915" />
 
-![Uploading image.png…]()
+<img width="1223" height="858" alt="image" src="https://github.com/user-attachments/assets/e916de66-f4aa-4382-a1bd-456d9051f1ae" />
 
-![Uploading image.png…]()
+<img width="1235" height="316" alt="image" src="https://github.com/user-attachments/assets/2f9efea6-09a1-4089-a728-d864b0137ee4" />
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
